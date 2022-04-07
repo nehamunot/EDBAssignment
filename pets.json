@@ -1,0 +1,28 @@
+{
+  "pets": [
+    {
+      "name": "Purrsloud",
+      "species": "Cat small",
+      "favFoods": "wet food, dry food, any food",
+      "birthYear": "2016-01",
+      "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Barksalot",
+      "species": "Dog",
+      "favFoods": "tuna, catnip",
+      "birthYear": "2008-02",
+      "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Meowsalot",
+      "species": "Cat",
+      "favFoods": "tuna catnip celery",
+      "birthYear": 2012,
+      "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    }
+  ]
+}
